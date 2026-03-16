@@ -2,16 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Novaes;I'm+20+years+old;I'm+from+Brazil;I+Study+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-### Projetos 
+<div allign center ### Projetos 
+  
 Sistema Bancário (Projeto Acadêmico): Desenvolvimento de um site para gerenciamento de contas bancárias, utilizando metodologias ágeis,Java e Mysql. Aprimorando habilidades de liderança.
-
+  
 Processamento de CSV para análise das metas do Poder Judiciário : Desenvolvido em python com o foco em aprender a paralelização mas praticando leitura de dados e gráficos. 
 Site de Sistema de Agendamento pro Sus: Desenvolvido com python no back, PostgreSql ,Flask e React
 
 Projeto de IMC : Projeto feito em html,css e javascript com intuito de solucionar um problema para um familiar.
 
 Projeto de Extensão : Solucionando Problema real com Javascript, Node e React.
-
+>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Yukitte&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=008B8B&bg_color=0d1117" alt="Gabriel Novaes github stats" /> 
