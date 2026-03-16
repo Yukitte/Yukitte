@@ -4,9 +4,12 @@
 
 ### Projetos 
 Sistema Bancário (Projeto Acadêmico): Desenvolvimento de um site para gerenciamento de contas bancárias, utilizando metodologias ágeis,Java e Mysql. Aprimorando habilidades de liderança.
+
 Processamento de CSV para análise das metas do Poder Judiciário : Desenvolvido em python com o foco em aprender a paralelização mas praticando leitura de dados e gráficos. 
 Site de Sistema de Agendamento pro Sus: Desenvolvido com python no back, PostgreSql ,Flask e React
+
 Projeto de IMC : Projeto feito em html,css e javascript com intuito de solucionar um problema para um familiar.
+
 Projeto de Extensão : Solucionando Problema real com Javascript, Node e React.
 
 
