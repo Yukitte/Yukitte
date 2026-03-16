@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Novaes;I'm+20+years+old;I'm+from+Brazil;I+Study+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-                                                                       Projetos 
+                                                                   Projetos 
 Sistema Bancário (Projeto Acadêmico): Desenvolvimento de um site para gerenciamento de contas bancárias, utilizando metodologias ágeis,Java e Mysql. Aprimorando habilidades de liderança.
   
 Processamento de CSV para análise das metas do Poder Judiciário : Desenvolvido em python com o foco em aprender a paralelização mas praticando leitura de dados e gráficos. 
